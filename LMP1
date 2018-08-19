@@ -1,0 +1,289 @@
+
+<!DOCTYPE html Public "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="description" content="" />
+<meta http-equiv="keywords" content="" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>北京狗腿房地产评估有限公司</title>
+<script type="text/javascript" src="Public/js/base1.js"></script>
+<link href="Public/css/index.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div class="headWrp">
+    <div class="topbar">
+        <a href="javascript:;">设为首页</a>|<a href="javascript:;">加入收藏</a></div>
+    <div class="logo">
+        <a href="javascript:;">
+            <img src="Public/images/logo.png" alt="" /></a><h1>
+                北京不要脸房地产评估有限公司</h1> 
+    </div>
+    <div class="nav_bg">
+        <ul class="nav">
+            <li><a class="n1" href="index.html">首页</a></li>
+            <li><a class="n1" href="profile/bj.html">公司概况</a></li>
+            <li><a class="n1" href="news/index.html">新闻中心</a></li>
+            <li><a class="n1" href="bussiness/index.html">业务范围</a></li>
+            <li><a class="n1" href="succStories/index.html">经典案例</a></li>
+            <li><a class="n1" href="zhuyaokehu/index.html">主要客户</a></li>
+            <li><a class="n1" href="service/index.html">客户服务平台</a></li>
+            <li><a class="n1" href="recruitment/hr.html">人才招聘</a></li>
+            <li><a class="n1" href="video/video.html">企业视频</a></li>
+            <li><a class="n1" href="contact/index.html">联系我们</a></li>
+        </ul></div><rm-rf>
+    </div>
+
+<div class="indexbannerBox">
+    <div class="indexBanner">
+        <ul class="indexbannerUl" id="ul_1">
+            <li><a href="javascript:;"><img src="Public/images/indexbannerpic2.jpg" alt="" /></a></li>
+            <li><a href="javascript:;"><img src="Public/images/indexbannerpic1.jpg" alt="" /></a></li>
+            <li><a href="javascript:;"><img src="Public/images/indexbannerpic3.jpg" alt="" /></a></li>
+        </ul>
+        <ul class="indexbannerNum" id="ol_1">
+            <li><a href="javascript:;" class="hover">1</a></li>
+            <li><a href="javascript:;">2</a></li>
+            <li><a href="javascript:;">3</a></li>
+        </ul>
+    </div>
+</div>
+    
+<div class="indexMain clearfix">
+	<div class="mainLeft">
+    	<div class="mainTitle">
+        	<a href="news/newsList.html?id=1">更多&gt;&gt;</a>
+            <span>公司新闻</span>
+        </div>
+        <div class="mainCont">
+        	<dl class="mLeftNwesFirst clearfix" id="gsim">
+            	<dt><a href="javascript:;"><img src="" alt="" /></a></dt>
+                <dd>
+                	<h2><a href="javascript:;"></a></h2>
+                    <div><a href="javascript:;"></a></div>
+                </dd>
+
+            </dl>
+            <ul class="mLeftNwesList" id="gsxw">
+            	<li class="mLeftNwesListFir"><span></span><a href="javascript:;"></a></li>
+            	<li><span></span><a href="javascript:;"></a></li>
+            	<li><span></span><a href="javascript:;"></a></li>
+            	<li><span></span><a href="javascript:;"></a></li>
+
+            </ul>
+        </div>
+    </div>
+	<div class="mainCenter">
+    	<div class="mainTitle">
+        	<a href="video/video.html" target=_blank>更多&gt;&gt;</a>
+            <span>企业视频</span>
+        </div>
+        <div class="mainCont sczt">
+        	<div class="mcPrev"></div>
+        	<div class="scztCon">
+            	<ul class="scrollBox clearfix" id="shiyannews">
+                	 <li class="scrollDiv" id="scrollDivFir">
+                     	<a href="javascript:;" class="mctitle">
+                            <!-- <img src="Public/images/video1.jpg" alt="" />
+                            <h2></h2> -->
+                            <iframe class="video_iframe" style="z-index:1;" src="http://v.qq.com/iframe/player.html?vid=l03231equa1&amp;width=280&amp;height=180&amp;auto=0" allowfullscreen="" frameborder="0" height="180" width="280"></iframe>
+                        </a>
+                        <!-- <p><a href="javascript:;">&lt;详细&gt;</a></p> -->
+                     </li>
+                	  <li class="scrollDiv" id="Li1">
+                     	<a href="javascript:;" class="mctitle">
+                            <!-- <img src="Public/images/video2.jpg" alt="" />
+                             <h2></h2> --> 
+                             <iframe class="video_iframe" style="z-index:1;" src="http://v.qq.com/iframe/player.html?vid=v0189v5ums4&amp;width=280&amp;height=180&amp;auto=0" allowfullscreen="" frameborder="0" height="180" width="280"></iframe>
+                        </a>
+                        <!-- <p><a href="javascript:;">&lt;详细&gt;</a></p> -->
+                     </li>
+                	  <li class="scrollDiv" id="Li2">
+                     	<a href="javascript:;" class="mctitle">
+                            <!-- <img src="Public/images/video3.jpg" alt="" />
+                            <h2></h2> -->
+                            <iframe class="video_iframe" style="z-index:1;" src="http://v.qq.com/iframe/player.html?vid=v0189vdsxpu&amp;width=280&amp;height=180&amp;auto=0" allowfullscreen="" frameborder="0" height="180" width="280"></iframe>
+                        </a>
+                        <!-- <p><a href="javascript:;">&lt;详细&gt;</a></p> -->
+                     </li>
+                </ul>
+            </div>
+        	<div class="mcNext"></div> 
+        </div>
+   </div>
+	<div class="mainRight">
+    	<div class="mainTitle">
+        	<a href="service/index.html">更多&gt;&gt;</a>
+            <span>快速通道</span>
+        </div>
+        <div class="mainCont">
+        	<ul class="mcr clearfix">
+            	<li><a href="javascript:kstz(2)"><img src="Public/images/rdzx.png" alt="" style="width:61px;height:61px"/>仁达在线</a></li>
+            	<li><a href="javascript:kstz(4)"><img src="Public/images/jdcx.png" alt="" style="width:61px;height:61px" />进度查询</a></li>
+                <li><a href="javascript:kstz(3)"><img src="Public/images/zwcx.png" alt="" style="width:61px;height:61px"/>真伪查询</a></li>
+                <li><a href="javascript:kstz(1)"><img src="Public/images/oa.png" alt="" style="width:61px;height:61px" />OA系统登录</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="indexMain2">
+	<a href="javascript:imtz(1)"><img src="Public/images/yfsj.jpg" alt=""  style="width:240px;height:45px"/><span>云房数据</span></a>
+	<a href="javascript:imtz(2);"><img src="Public/images/xhfd.png" alt="" /><span>信和坊德</span></a>
+	<a href="javascript:imtz(3);"><img src="Public/images/pic5.jpg" alt="" /><span>广东中地</span></a>
+	<a href="#" target="_blank" ><span></span></a>
+</div>
+<!--#include  file="Public/inc/footer.html" -->
+<div class="fooerWrp">
+        <div>
+            版权所有: 北京政府狗腿房地产评估有限公司&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;技术支持： 北京云房数据技术有限责任公司
+        </div>
+        <div>
+            电话：010-88395886 &nbsp;&nbsp;&nbsp;&nbsp; 传真：010-88395756&nbsp;&nbsp;&nbsp;&nbsp;
+            网址：www.crea.com.cn&nbsp;&nbsp;&nbsp;&nbsp; 邮箱：crea@crea.com.cn</div>
+    </div>
+    <div style="width:300px;margin:0 auto; padding:20px 0;">
+			<a target="_blank" href="https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202007647 " style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="Public/images/beian.png" style="float:left;" />
+				<p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">京公网安备 1102830463021号</p>
+			</a>
+		</div>
+</body>
+</html>
+<script type="text/javascript" src="Public/js/imgscr.js"></script><!--  -->
+<script type="text/javascript">
+    $(function () {
+
+
+
+        $(".nav li:eq(0) a").addClass("n1Fir");
+
+        var ulWid = $(".scztCon").width();
+        liLen = $(".scrollBox li").length;
+        scrBoxWid = ulWid * liLen;
+        $(".scrollBox").css({ width: scrBoxWid + "px" });
+        var thisindex = 1;
+        $(".mcNext").click(function () {
+            if (thisindex < liLen - 1) {
+                thisindex++;
+            } else {
+                thisindex = 0;
+            }
+            scrFn(thisindex);
+        });
+        $(".mcPrev").click(function () {
+            if (thisindex <= 0) {
+                thisindex = liLen - 1;
+            } else {
+                thisindex--;
+            }
+            scrFn(thisindex);
+        });
+        //
+
+
+        $.ajax({
+
+            url: '../servers/servers.aspx?method=getNewstoBindshouye',
+
+            success: function (text) {
+
+                bind(text);
+
+            }
+        });
+
+        $.ajax({
+
+            url: '../servers/servers.aspx?method=getshiyantoBindshouye',
+
+            success: function (text) {
+
+                //bindshiyan(text);
+
+            }
+        });
+
+    });
+
+    function scrFn(thisindex) {
+        $(".scrollBox").stop(true, true).animate({ left: (-thisindex * 300) + "px" })
+    };
+
+    function bind(text) {
+        $("#gsim").empty();
+
+        $("#gsxw").empty();
+        var nurl = "news/pages/news.html";
+        text = eval(text);
+        $.each(text, function (i, item) {
+            item.Ndate = item.Ndate.split('T')[0];
+
+            if (item.title.length > 14) {
+                item.title = item.title.substring(0, 14) + "..";
+            }
+            item.context = item.context.substring(0, 60) + "..";
+
+            if (i == 0) {
+                var ht = $("<dt><a href=\"" + nurl + "?id=" + item.ID + "\"><img src=\"" + item.imageurl + "\" alt=\"\" /></a></dt><dd><h2><a href=\"" + nurl + "?id=" + item.ID + "\">" + item.title + "</a></h2><div><a href=\"" + nurl + "?id=" + item.ID + "\">" + item.context + "</a></div></dd>");
+                $("#gsim").append(ht);
+
+            } else if (i == 1) {
+                var ht = $("<li class=\"mLeftNwesListFir\"><span>" + item.Ndate + "</span><a href=\"" + nurl + "?id=" + item.ID + "\">" + item.title + "</a></li>");
+                $("#gsxw").append(ht);
+
+            }
+            else {
+
+                var ht = $("<li><span>" + item.Ndate + "</span><a href=\"" + nurl + "?id=" + item.ID + "\">" + item.title + "</a></li>");
+                $("#gsxw").append(ht);
+            }
+
+
+        });
+        $(".mLeftNwesList li").each(function () {
+            $(this).hover(function () {
+                $(".mLeftNwesList li").removeClass("mLeftNwesListFir");
+                $(this).addClass("mLeftNwesListFir");
+            });
+        });
+    }
+    function bindshiyan(text) {
+        $("#shiyannews").empty();
+
+
+        text = eval(text);
+
+        $.each(text, function (i, item) {
+           
+            var ht = $("<li class=\"scrollDiv\" ><a href=\"news/article.html?id="+item.ID+"\" class=\"mctitle\"><img src=\"Public/images/img2.jpg\" alt=\"\" /><h2>" + item.Title + "</h2></a><p>" + item.zhaiyao + "</p></li>");
+            $("#shiyannews").append(ht);
+        });
+
+    }
+    function imtz(id) {
+        if (id == "1") {
+            window.open("http://www.yunfangdata.com/index.html");
+        }
+        if (id == "2") {
+            window.open("http://www.sym-fund.com");
+        }
+ if (id == "3") {
+            window.open("http://www.zdpg.com.cn/");
+        }
+    }
+    function kstz(id) {
+        if (id == "1") {
+            window.open("http://123.57.83.130:90/");
+        } else if (id == "2") {
+
+            window.open("http://online.yunfangdata.com/");
+        }
+        else if (id == "3") {
+
+            location.href = "service/zwcx.html";
+        }
+        else if (id == "4") {
+
+            location.href = "service/jdcx.html";
+        }
+
+    }
+</script>
